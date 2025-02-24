@@ -1,0 +1,1 @@
+Student id:9, Name: Shox, Age: 9, Grades:5,5,5, Average_grade: 5.00
