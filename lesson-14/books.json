@@ -1,0 +1,50 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publication_year": 1960,
+        "genre": ["Fiction", "Classic"],
+        "publisher": "J.B. Lippincott & Co.",
+        "isbn": "9780061120084"
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "publication_year": 1949,
+        "genre": ["Fiction", "Dystopian"],
+        "publisher": "Secker & Warburg",
+        "isbn": "9780451524935"
+      },
+      {
+        "id": 3,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publication_year": 1925,
+        "genre": ["Fiction", "Classic"],
+        "publisher": "Charles Scribner's Sons",
+        "isbn": "9780743273565"
+      },
+      {
+        "id": 4,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "publication_year": 1937,
+        "genre": ["Fantasy"],
+        "publisher": "George Allen & Unwin",
+        "isbn": "9780261102217"
+      },
+      {
+        "id": 5,
+        "title": "To Kill a Mockingbird",
+        "author": "J.K. Rowling",
+        "publication_year": 1997,
+        "genre": ["Fantasy"],
+        "publisher": "Bloomsbury",
+        "isbn": "9780747532699"
+      }
+    ]
+  }
+  
